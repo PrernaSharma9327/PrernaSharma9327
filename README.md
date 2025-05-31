@@ -22,7 +22,7 @@
   <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
 
-javascript
+```javascript
 class PrernaSharma {
     constructor() {
         this.name = "Prerna Sharma";
@@ -36,7 +36,7 @@ class PrernaSharma {
 
     getCurrentProjects() {
         return [
-            "🏃‍♀ Sports Website Development",
+            "🏃‍♀️ Sports Website Development",
             "🧠 Data Structures & Algorithms",
             "🎨 Interactive Web Applications",
             "📚 Learning Advanced JavaScript"
@@ -64,7 +64,7 @@ class PrernaSharma {
 
 const developer = new PrernaSharma();
 console.log("Welcome to my coding journey! 🚀");
-
+```
 
 ---
 
@@ -72,17 +72,17 @@ console.log("Welcome to my coding journey! 🚀");
 
 <div align="center">
 
-### 🎨 *Frontend Technologies*
+### 🎨 **Frontend Technologies**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,jquery" alt="Frontend Skills" />
 </p>
 
-### 🔧 *Development Tools*
+### 🔧 **Development Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,chrome" alt="Development Tools" />
 </p>
 
-### 📊 *Data Structures & Algorithms*
+### 📊 **Data Structures & Algorithms**
 <p>
   <img src="https://img.shields.io/badge/Arrays-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Linked_Lists-4ECDC4?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -91,7 +91,7 @@ console.log("Welcome to my coding journey! 🚀");
   <img src="https://img.shields.io/badge/Trees-FECA57?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-### 🌱 *Currently Learning*
+### 🌱 **Currently Learning**
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" alt="Learning Stack" />
 </p>
@@ -179,7 +179,7 @@ console.log("Welcome to my coding journey! 🚀");
     <tr>
       <td align="center" width="25%">
         <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100px"><br>
-        <b>🏃‍♀ Sports</b><br>
+        <b>🏃‍♀️ Sports</b><br>
         <sub>Fitness & Athletics</sub>
       </td>
       <td align="center" width="25%">
@@ -207,7 +207,7 @@ console.log("Welcome to my coding journey! 🚀");
 
 <div align="center">
   
-text
+```text
 🎯 Focus Areas:
 Frontend Development    ████████████████████   95%
 Data Structures        ████████████████░░░░   80%
@@ -225,7 +225,7 @@ Bootstrap          ████████████░░░░░░░░ 
 □ Learn Node.js & Express
 □ Build Full-Stack Projects
 □ Contribute to Open Source
-
+```
 
 </div>
 
@@ -235,7 +235,7 @@ Bootstrap          ████████████░░░░░░░░ 
 
 <div align="center">
 
-### 🌐 *Find Me Online*
+### 🌐 **Find Me Online**
 
 <p>
 <a href="https://linkedin.com/in/prerna-sharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
@@ -251,7 +251,7 @@ Bootstrap          ████████████░░░░░░░░ 
 <a href="https://leetcode.com/prernasharma"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" /></a>
 </p>
 
-### 💝 *Support My Journey*
+### 💝 **Support My Journey**
 <p>
 <a href="https://buymeacoffee.com/prernasharma"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00" /></a>
 <a href="https://ko-fi.com/prernasharma"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=F16061" /></a>
@@ -273,7 +273,7 @@ Bootstrap          ████████████░░░░░░░░ 
 
 <div align="center">
 
-yaml
+```yaml
 fun_facts:
   - "🌸 I love creating beautiful, user-friendly interfaces"
   - "⚽ Sports enthusiast who codes sports websites"
@@ -282,7 +282,7 @@ fun_facts:
   - "📱 I test my websites on every device I can find"
   - "🌟 I'm always excited to learn new technologies"
   - "🤝 I love collaborating and sharing knowledge with others"
-
+```
 
 </div>
 
@@ -294,7 +294,7 @@ fun_facts:
 
 <div align="center">
 
-### 💫 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+### 💫 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=⭐+Don't+forget+to+star+my+repositories!;🤝+Let's+collaborate+on+amazing+projects!;📧+Always+open+to+new+opportunities!" alt="Footer Message" />
 
